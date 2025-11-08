@@ -9,7 +9,7 @@ I’m a full stack engineer with over a decade of experience designing and build
 - Designing **microservices** using **Spring Boot**, **Quarkus**, and **REST APIs**
 - Building modern **front-end solutions** with **Angular**, **React**, and **TypeScript**
 - Deploying and managing solutions on **AWS**, leveraging **Docker**, **Kubernetes**, and **CI/CD pipelines**
-- Implementing **DevSecOps** practices and mentoring teams toward technical excellence
+- Implementing **DevOps** practices and mentoring toward technical excellence
 
 ## Tech Stack
 `Java` • `Spring Boot` • `Quarkus` • `Angular` • `React` • `TypeScript` •  
