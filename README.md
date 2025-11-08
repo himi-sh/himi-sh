@@ -1,8 +1,6 @@
 # Himani Sharma
 
-**Lead Software Developer | Full Stack & Cloud Specialist**
-
-I’m a full stack engineer with over a decade of experience designing and building **scalable, secure, and high-performance applications**. I focus on translating complex requirements into maintainable, production-ready systems that create measurable impact.
+I’m a full stack engineer, designing and building **scalable, secure, and high-performance applications**.
 
 ## Expertise
 - Architecting and developing **enterprise-grade web applications**
@@ -13,13 +11,7 @@ I’m a full stack engineer with over a decade of experience designing and build
 
 ## Tech Stack
 `Java` • `Spring Boot` • `Quarkus` • `Angular` • `React` • `TypeScript` •  
-`AWS` • `Docker` • `Kubernetes` • `PostgreSQL` • `Redis` • `Jenkins` • `GitHub Actions`
-
-## Key Achievements
-- Developed reusable UI and backend components that significantly improved delivery speed and maintainability  
-- Enhanced application security through modern frameworks and secure coding practices  
-- Mentored engineers and established best practices for continuous improvement  
-- Recipient of a global award for building an AI-driven compliance automation tool  
+`AWS` • `Docker` • `Kubernetes` • `PostgreSQL` • `Redis` • `Jenkins` • `GitHub Actions` 
 
 ## Currently Exploring
 - Cloud-native architecture patterns  
